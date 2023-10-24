@@ -1,0 +1,24 @@
+.container {
+    margin: auto;
+    padding: 10px;
+    background-color: bisque;
+    text-align: center;
+    width: 500px;
+    height: auto;
+    border: 2px solid green;
+}
+h1 {
+    font-size: 40px;
+}
+button {
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+#joke-container {
+    text-align: center;
+    font-weight: bold;
+}
